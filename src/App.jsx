@@ -6,6 +6,7 @@ import Header from './components/Header';
 import AddStrike from './pages/AddStrike';
 import Home from './pages/Home';
 import Strikes from './pages/Strikes';
+import EditStrike from './pages/Strikes/EditStrike';
 
 const App = () => {
   const queryClient = new QueryClient();
@@ -18,6 +19,7 @@ const App = () => {
             <Routes>
               <Route path="/" element={<Home />} />
               <Route path="/strikes" element={<Strikes />} />
+              <Route path="/strikes/:id" element={<EditStrike />} />
               <Route path="/add" element={<AddStrike />} />
             </Routes>
           </main>

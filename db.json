@@ -2,14 +2,14 @@
   "materials": [
     {
       "id": 1,
-      "name": "Gilet Jaune",
+      "name": "Gilet Orange",
       "type": "mode",
       "description": "Accessoire de mode qui représente la beaufitude. Peut également servir en cas d'accident avec Macron",
       "image": "https://c.tenor.com/imW0wVYpqhgAAAAM/gilet-tchuc.gif"
     },
     {
       "id": 2,
-      "name": "Pancarte Macron Démission",
+      "name": "Pancarte Macron Démission - V2",
       "type": "weapon",
       "description": "Outil de propagande. C'est également une arme pour les CRS.",
       "image": "https://pbs.twimg.com/media/DwtRhk4X0AAgIGu.jpg"
@@ -24,9 +24,16 @@
     {
       "name": "Carapils",
       "image": "https://siena.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2017/05/31/node_88444/230537/public/2017/05/31/B9712185587Z.1_20170531225427_000%2BGGC95UK3S.4-0.jpg?itok=smItckCP1496264076",
-      "type": "food",
+      "type": "weapon",
       "description": "Boisson indispensable à la grève. Sans carapils, la grève ne peut être un succès sur Facebook. Chaque carapils ajoute un point de courage pour charger les CRS. Utilisation bonus, jeter une carapils congelé sur les CRS fera des dommages conséquents",
       "id": 4
+    },
+    {
+      "name": "Harry Potter",
+      "image": "https://i.etsystatic.com/9994494/c/3000/1688/0/0/il/ce3f49/2653254001/il_340x270.2653254001_870z.jpg",
+      "type": "weapon",
+      "description": "Inutile contre les CRS mais occupe la femme pendant que l'homme boit des carapils",
+      "id": 5
     }
   ]
 }

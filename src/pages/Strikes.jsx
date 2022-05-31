@@ -37,10 +37,6 @@ const Strikes = () => {
     mutate();
   };
 
-  useEffect(() => {
-    toast.success('Ceci est une grève générale');
-  }, []);
-
   return (
     <>
       {isLoading || (isDeleting && <Loader />)}
