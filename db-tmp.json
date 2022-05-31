@@ -1,0 +1,25 @@
+{
+  "materials": [
+    {
+      "id": 1,
+      "name": "Gilet Jaune",
+      "type": "mode",
+      "description": "Accessoire de mode qui représente la beaufitude. Peut également servir en cas d'accident avec Macron",
+      "image": "https://c.tenor.com/imW0wVYpqhgAAAAM/gilet-tchuc.gif"
+    },
+    {
+      "id": 2,
+      "name": "Pancarte Macron Démission",
+      "type": "weapon",
+      "description": "Outil de propagande. C'est également une arme pour les CRS.",
+      "image": "https://pbs.twimg.com/media/DwtRhk4X0AAgIGu.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Le pain-saucisse",
+      "type": "food",
+      "description": "Element qui fait gagner des PV et du courage. Peut être utiliser à tout moment de la journée. PV supplémentaire quand on le consomme sur un rond-point",
+      "image": "https://pbs.twimg.com/media/BhRQLErIMAA8u_s.jpg"
+    }
+  ]
+}
